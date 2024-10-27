@@ -1,0 +1,44 @@
+{
+  "name": "blogfront",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^11.1.0",
+    "element-plus": "^2.8.6",
+    "md-editor-v3": "^4.21.1",
+    "pinia": "^2.2.4",
+    "vue": "^3.5.12",
+    "vue-router": "^4.4.5"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.13.0",
+    "@iconify-json/basil": "^1.2.1",
+    "@iconify-json/fa-regular": "^1.2.0",
+    "@iconify-json/fa6-regular": "^1.2.1",
+    "@iconify-json/mdi": "^1.2.1",
+    "@iconify-json/raphael": "^1.2.0",
+    "@iconify-json/svg-spinners": "^1.2.1",
+    "@iconify-json/tabler": "^1.2.5",
+    "@iconify-json/uil": "^1.2.1",
+    "@vitejs/plugin-vue": "^5.1.4",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.13.0",
+    "eslint-plugin-vue": "^9.29.1",
+    "globals": "^15.11.0",
+    "pinia-plugin-persistedstate": "^4.1.1",
+    "postcss": "^8.4.47",
+    "sass": "^1.80.3",
+    "tailwindcss": "^3.4.14",
+    "unplugin-auto-import": "^0.18.3",
+    "unplugin-icons": "^0.19.3",
+    "unplugin-vue-components": "^0.27.4",
+    "vite": "^5.4.8",
+    "vite-plugin-svg-icons": "^2.0.1"
+  }
+}
